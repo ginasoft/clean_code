@@ -17,6 +17,11 @@ npm run dev
 
 ## 📚 Recomendados
 
+📄 [Descargar Presentaciones](./docs/Presentaciones.pdf)
+
 ![Comics](http://www.osnews.com/images/comics/wtfm.jpg)
 
 [Refactoring Guru](https://refactoring.guru/)
+
+[Commit Strip](https://www.commitstrip.com/en/?)
+
