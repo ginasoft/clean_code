@@ -14,3 +14,9 @@ yarn dev
 ó
 npm run dev
 ```
+
+## 📚 Recomendados
+
+![Comics](http://www.osnews.com/images/comics/wtfm.jpg)
+
+[Refactoring Guru](https://refactoring.guru/)
