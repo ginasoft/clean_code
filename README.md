@@ -25,3 +25,5 @@ npm run dev
 
 [Commit Strip](https://www.commitstrip.com/en/?)
 
+[Premio Turing](https://es.wikipedia.org/wiki/Premio_Turing)
+
