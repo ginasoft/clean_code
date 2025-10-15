@@ -15,9 +15,9 @@ yarn dev
 npm run dev
 ```
 
-## 📚 Recomendados
+## Recomendados
 
-📄 [Descargar Presentaciones](./docs/Presentaciones.pdf)
+[Descargar Presentaciones](./docs/Presentaciones.pdf)
 
 ![Comics](http://www.osnews.com/images/comics/wtfm.jpg)
 
